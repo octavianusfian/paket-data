@@ -1,0 +1,89 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "name": "10GB Telkomsel",
+      "provider": "Telkomsel",
+      "price": 50000,
+      "quota": 10
+    },
+    {
+      "id": 2,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 3,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 4,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 5,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 6,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 7,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 8,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 9,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 10,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 11,
+      "name": "20GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 20
+    },
+    {
+      "id": 12,
+      "name": "10GB XL",
+      "provider": "XL",
+      "price": 70000,
+      "quota": 10
+    }
+  ],
+  "transactions": []
+}
